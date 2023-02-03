@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Vendo Machine</string>
+    <string name="instruction">PLEASE INSERT PAPER BILLS ONLY</string>
+    <string name="choose">CHOOSE 1 AVAILABLE ITEM</string>
+    <string name="tvAmount">Result</string>
+
+    <string name="PikNik1">Pik-Nik Ketchup Fries</string>
+    <string name="PikNik2">50.00</string>
+    <string name="Pringles1">Pringles sour Cream &amp; Onions</string>
+    <string name="Pringles2">100.00</string>
+
+    <string name="PikNik3">Pik-Nik Cheddar Cheese</string>
+    <string name="PikNik4">45.00</string>
+    <string name="Pringles3">Pringles Original</string>
+    <string name="Pringles4">95.00</string>
+</resources>
